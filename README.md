@@ -12,7 +12,7 @@ IntelliQuiz is designed for students who wish to streamline study sessions and i
 
 This project aims to offer customizable Ai-generated quizzes from text inputs or PDF documents. The quizzes are interactive and provide "Hint" buttons; they can be attempted directly in the application or can be downloaded as PDF files. Quiz results provide feedback and highlights areas needing further review. The final summary and results can also be downloaded as a report PDF.
 
-### [-> Try out the site <-](https://pfang12.github.io/CPSC-2350-Project/)
+### [-> Try out the site <-](ttps://harpreet1o.github.io/CPSC-2350-Project/)
 
 ### [-> Watch the demo <-](https://drive.google.com/file/d/1wUgf49-GWlcw_Q-dyJCF3bjznb9zp2-I/view)
 
